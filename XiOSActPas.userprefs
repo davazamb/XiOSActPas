@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{FFA3AE8A-A7BE-42A8-9395-F7E80C413B50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XiOSActPas/AppDelegate.cs">
+    <Files>
+      <File FileName="XiOSActPas/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XiOSActPas PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9C58105F-1A92-4D18-9415-3B06485D6DAF" />
+</Properties>
